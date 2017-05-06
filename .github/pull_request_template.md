@@ -37,7 +37,10 @@ chose this approach instead.
 ### :ballot_box_with_check: Checklist
 
 [ ] - App Builds
+
 [ ] - Passing Tests
+
 [ ] - Documentation
+
 [ ] - Awesome emoji describing _Current Mood_ resulting from submitting this PR
 
